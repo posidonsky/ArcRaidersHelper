@@ -16,7 +16,7 @@
 
 ---
 
-[✨ Features](#-features) • [📦 Installation](#-installation) • [🎯 Usage](#-usage) • [🗺️ Roadmap](#️-roadmap) • [🤝 Contributing](#-contributing)
+[✨ Features](#-features) • [🎯 Usage](#-usage) • [🗺️ Roadmap](#️-roadmap) • [🤝 Contributing](#-contributing)
 
 ---
 
@@ -89,20 +89,3 @@
 | 🌍 **Multi-language** | Support for multiple languages |
 
 ---
-
-## 📦 Installation
-
-### Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/ArcRaidersHelper.git
-
-# Navigate to directory
-cd ArcRaidersHelper
-
-# Install dependencies
-npm install
-
-# Run the application
-npm start
